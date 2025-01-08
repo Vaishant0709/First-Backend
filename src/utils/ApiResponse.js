@@ -12,3 +12,4 @@ class ApiResonse{
 
   }
 }
+export {ApiResonse}
